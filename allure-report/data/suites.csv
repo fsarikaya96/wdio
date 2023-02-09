@@ -1,0 +1,4 @@
+"Status","Start Time","Stop Time","Duration in ms","Parent Suite","Suite","Sub Suite","Test Class","Test Method","Name","Description"
+"passed","Thu Feb 09 11:32:01 TRT 2023","Thu Feb 09 11:32:04 TRT 2023","2337","","Main Page","","Main Page","Verify List items","Verify List items",""
+"passed","Thu Feb 09 11:32:01 TRT 2023","Thu Feb 09 11:32:05 TRT 2023","3430","","My Login application","","My Login application","should login with valid credentials","should login with valid credentials",""
+"passed","Thu Feb 09 11:32:01 TRT 2023","Thu Feb 09 11:32:09 TRT 2023","7729","","Dynamic Loading Page","","Dynamic Loading Page","wait for the hidden element to show","wait for the hidden element to show",""
